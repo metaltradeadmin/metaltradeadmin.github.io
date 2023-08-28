@@ -1,0 +1,150 @@
+.icon{display: inline-block;}
+.icon-home,
+.icon-farmer,
+.icon-retailer,
+.icon-article,
+.icon-apps,
+.icon-aboutus{background-image: url(../images/icons_header.svg); width: 48px; height: 48px;}
+
+.icon-home{	background-position: 0 0;}
+.icon-farmer{ background-position: -48px 0;}
+.icon-retailer{	background-position: -96px 0;}
+.icon-article{ background-position: -144px 0;}
+.icon-apps{ background-position: -192px 0;}
+.icon-aboutus{ background-position: -241px 0;}
+
+
+.icon-demand{background-image: url(../images/ic-on-demand.svg);}
+.icon-quality{background-image: url(../images/ic-quality.svg);}
+.icon-delivery{background-image: url(../images/ic-delivery.svg);}
+.icon-wastage{background-image: url(../images/ic-wastage.svg);}
+
+.icon-fresh-better{background-image: url(../images/ic_fresh_better.svg);}
+
+.icon-better-price{background-image: url(../images/ic_better_price.svg);}
+.icon-door-delivery{background-image: url(../images/ic_door_delivery.svg);}
+.icon-digital-payment{background-image: url(../images/ic_digital_payment.svg);}
+.icon-price{background-image: url(../images/icon-price.svg);}
+.icon-agro-tech{background-image: url(../images/ic_agro_tech.svg);}
+
+.news-icon{background-image: url(../images/news_icons1.jpg); float: left; height: 34px;}
+.icon-your-story{background-position: 0 0; width: 94px;}
+.icon-twitter-news{background-position: -96px 0; width: 85px;}
+.icon-ET{background-position: -181px 0; width: 102px;}
+.icon-your-story{background-position: 0 0; width: 100px;}
+.icon-you-tube{background-position: -392px 0; width: 56px;}
+.icon-business-line{background-position: -460px 0; width: 100px;}
+.icon-inc-42{background-position: -577px 0; width: 65px;}
+
+.features-icon{
+	width: 110px; 
+	height: 100px; 
+	display: inline-block;
+	background-position: 7px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/****************************
+icon next and previous 
+*****************************/
+.icon-video-play{
+    background: url(../images/ic_video_play.svg) no-repeat; 
+    width:48px; 
+    height: 48px;
+    position: absolute;
+    display: inline-block;
+    left: 50%;
+    top: 50%;
+    margin-top: -29px;
+    margin-left: -29px;
+}
+.icon-left-arrow{background: url(../images/icon_arrow_left.svg) no-repeat;}
+.icon-right-arrow{background: url(../images/icon_arrow_right.svg) no-repeat;}
+.icon-up-arrow{background: url(../images/ic_up_arrow.svg) no-repeat;}
+.icon-down-arrow{background: url(../images/ic_down_arrow.svg) no-repeat;}
+.icon-up-arrow,
+.icon-down-arrow{
+    width: 24px; height: 24px; float: right;
+}
+.icon-right-arrow{left: auto; right: 6px;}
+
+
+
+
+
+/*********************************************/
+.icon-map{
+	background-image: url(../images/ic-map.svg); 
+	background-repeat: no-repeat;
+    width: 25px;
+    height: 20px;
+    float: left;
+    margin-top: 3px;
+}
+
+.icon-google-play{
+	background-image: url(../images/google_playstore.svg); 
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 180px; 
+	min-height: 70px; 
+	display: inline-block;
+}
+.truck-on-road{
+	background-image: url(../images/truck_road.svg);
+	background-repeat: no-repeat;	
+	background-size: 100% fixed; 
+	min-height: 205px;
+}
+.mobile-on-hand{
+	background-image: url(../images/retailer_app.png); 
+	background-repeat: no-repeat;
+    display: inline-block;
+    width: 352px;
+    height: 400px;
+    background-size: 100%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.mobile-on-hand-associate{
+	background-image: url(../images/ba_image_hand.png); 
+	background-repeat: no-repeat;
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+    background-size: cover;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-position: right bottom;
+}
+
+
+/****************************
+        SOCIAL ICONS 
+*****************************/
+.icon-social{
+	background-image: url(../images/social-icon-gray2.png);
+	background-repeat: no-repeat;
+	width: 24px;
+	height: 24px;
+	display: inline-block;
+    cursor: pointer;
+}
+
+.icon-facebook{background-position:0 0;}
+.icon-facebook:hover{background-position:0 -48px;}
+.icon-twitter{background-position:-24px 2px;}
+.icon-twitter:hover{background-position:-24px -46px;}
+.icon-linkedin{background-position:-48px 0;}
+.icon-linkedin:hover{background-position:-48px -48px;}
+.icon-insta{background-position:-74px 0;}
+.icon-insta:hover{background-position:-74px -47px;}
+
+
+.icon-facebook-white{background-image: url(../images/logo-facebook.svg);}
+.icon-twitter-white{background-image: url(../images/logo-twitter.svg);}
+.icon-googleplus-white{background-image: url(../images/logo-google.svg);}
+.icon-linkedin-white{background-image: url(../images/logo-linkdin.svg);}
+

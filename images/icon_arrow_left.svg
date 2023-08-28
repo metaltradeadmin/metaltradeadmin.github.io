@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_left_arrow_carousel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_left_arrow_carousel"></g>
+        <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z M8.36498886,17.1760336 C7.88007238,17.6373887 7.87808901,18.3872898 8.36055887,18.8509845 C8.84302874,19.3146791 9.62725031,19.3165757 10.1121668,18.8552206 L16.4350112,12.8395935 C16.9216629,12.3765874 16.9216629,11.6234126 16.4350112,11.1604065 L10.1121668,5.14477943 C9.62725031,4.6834243 8.84302874,4.68532087 8.36055887,5.14901555 C7.87808901,5.61271022 7.88007238,6.36261126 8.36498886,6.82396639 L13.8053618,12 L8.36498886,17.1760336 Z" id="Combined-Shape" fill="#727272" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) "></path>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_video_play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home_updated-copy" transform="translate(-735.000000, -2562.000000)">
+            <g id="ic_video_play" transform="translate(735.000000, 2562.000000)">
+                <g id="Oval-3">
+                    <circle fill="#D8D8D8" cx="24" cy="24" r="24"></circle>
+                    <circle fill="#3DA241" cx="24" cy="24" r="18"></circle>
+                </g>
+                <path d="M24.5424841,14.7398819 C25.0972659,13.7789717 25.8849913,13.8292608 26.3008098,14.8494863 L31.8998171,28.5868537 C32.3161317,29.6082968 31.7664676,30.558266 30.6750171,30.7082695 L15.9786043,32.7280706 C14.8858513,32.878253 14.4526563,32.2159763 15.0045213,31.2601181 L24.5424841,14.7398819 Z" id="Triangle" fill="#FFFFFF" transform="translate(23.326811, 23.000000) rotate(-30.000000) translate(-23.326811, -23.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
