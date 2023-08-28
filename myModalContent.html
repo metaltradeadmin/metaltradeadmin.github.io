@@ -1,0 +1,20 @@
+    <div class="modal-header popup-hdr">        
+        <div class="modal-title">Registration</div>
+    </div>
+
+    <div class="modal-body" >
+        <div ng-if="data.success">
+            <p ng-if="data.message.status=='AR'">{{data.message.msg}}
+            </p>
+            <p ng-if="data.message.status!='AR'">{{data.message}}
+            </p>            
+        </div>
+        <div ng-if="!data.success">{{data.error.message}}</div>
+    </div>
+    <div class="modal-footer">
+    <button ng-if="data.success" class="btn btn-success" type="button" ng-click="ok()">OK</button>
+    <button ng-if="data.message.status!='AR'" class="btn btn-default" type="button" ng-click="cancel()">CLOSE</button>
+        
+    <button ng-if="data.message.status=='AR'" class="btn btn-default" type="button" ng-click="cancel()">CLOSE</button>
+        
+</div>
